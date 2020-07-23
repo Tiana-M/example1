@@ -1,0 +1,170 @@
+
+.top-container{
+  background-color: #b6dbfa;
+  margin-left: 0px;
+  padding: 20px;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0;
+}
+
+body{
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+.hd2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+.woman-comp{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.social-media{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+.middle-container{
+
+}
+
+.bottom-container{
+  margin-top: 30px;
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  height: 100px;
+  padding-top: 40px;
+}
+#link-imgc{
+  width: 300px;
+  height: 300px;
+  margin-top: 30px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+  color: #33bdef;
+  margin: 50px auto;
+}
+
+.button{
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+
+.button:hover{
+  background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#8f87ff;
+}
+
+.url{
+  color: white;
+  font-size: 0.75rem;
+  padding-top: 20px 0;
+}
+
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+
+.footer-link:hover{
+  color: white;
+}
+
+.profile{
+  padding-bottom: 25px;
+}
+
+.skills{
+  padding-top: 25px;
+}
+
+.contact-me{
+  padding-top: 25px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.button-space{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.intro{
+  width: 40%;
+  margin: 0 auto;
+}
+
+p{
+  line-height: 2;
+}
